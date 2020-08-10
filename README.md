@@ -4,5 +4,4 @@
 - Add a task
 - Delete a task
 - Update a task
-## Description
-##### User will enter the title and desctiption of task and save it. Task will be stored in firebase realtime databse
+- Read a task
